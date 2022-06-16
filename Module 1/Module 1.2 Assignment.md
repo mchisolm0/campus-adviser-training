@@ -1,14 +1,14 @@
 For the Module 1.2 Assignment, you will open up your command line and complete the following:
 
-- [ ] Create a directory using the command `mkdir`
-- [ ] In the directory you created initialize Git using `git init`
-- [ ] Create a README.md file in your directory using the `touch` command
-- [ ] Make sure README.md is in your _Working Directory_ by checking your status with `git status`
-- [ ] Move README.md from the _Working Directory_ to the _Staging Area_ by using `git add`
-- [ ] Make sure README.md is in your _Staging Area_ by checking your status with `git status`
-- [ ] Commit README.md to your repository using `git commit`
-- [ ] Make sure your _Working Directory_ and _Staging Area_ are clean with `git status`
-- [ ] Make sure your commit has been logged into your repository by using `git log`
+- [x] Create a directory using the command `mkdir`
+- [x] In the directory you created initialize Git using `git init`
+- [x] Create a README.md file in your directory using the `touch` command
+- [x] Make sure README.md is in your _Working Directory_ by checking your status with `git status`
+- [x] Move README.md from the _Working Directory_ to the _Staging Area_ by using `git add`
+- [x] Make sure README.md is in your _Staging Area_ by checking your status with `git status`
+- [x] Commit README.md to your repository using `git commit`
+- [x] Make sure your _Working Directory_ and _Staging Area_ are clean with `git status`
+- [x] Make sure your commit has been logged into your repository by using `git log`
 
 Once you have completed these steps, take a screenshot of your command line, with the steps above, and upload your screenshot to a new `Issue` titled `Module 1.2 Assignment`. I have added the screenshot from the Module 1.1 Assignment for reference.
 
