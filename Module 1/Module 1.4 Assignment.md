@@ -6,7 +6,7 @@ You were introduced to the tool [Visualizing Git](http://git-school.github.io/vi
 
 Note, there is more than one way to replicate this visualization. 
 
-- [ ] Go to [Visualizing Git](http://git-school.github.io/visualizing-git/)
-- [ ] Replicate the image above by determining the correct sequence of git commands
-- [ ] Take a screenshot of your work, including the command line, in the visualizer
-- [ ] Upload your screenshot to a new Issue titled Module 1.4 Assignment
+- [x] Go to [Visualizing Git](http://git-school.github.io/visualizing-git/)
+- [x] Replicate the image above by determining the correct sequence of git commands
+- [x] Take a screenshot of your work, including the command line, in the visualizer
+- [x] Upload your screenshot to a new Issue titled Module 1.4 Assignment
